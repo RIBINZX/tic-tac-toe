@@ -54,3 +54,8 @@ h1{
   transition: .2s;
   background-color: #fffffff6;
 }
+@media (max-width: 575.98px) { 
+  h1{
+    right: 60px;
+  }
+ }
