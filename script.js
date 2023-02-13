@@ -60,3 +60,7 @@ function checkDraw() {
 
   return true;
 }
+
+console.log("Helooooo")
+
+made_in = "ribin"
